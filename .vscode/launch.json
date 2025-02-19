@@ -4,7 +4,20 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "operadores_4",
+            "request": "launch",
+            "mainClass": "operadores_4",
+            "projectName": "dio-trilha-java-basico_4910deb5"
+        },
+        {
+            "type": "java",
+            "name": "operadores_3",
+            "request": "launch",
+            "mainClass": "operadores_3",
+            "projectName": "dio-trilha-java-basico_4910deb5"
+        },
         {
             "type": "java",
             "name": "Current File",
