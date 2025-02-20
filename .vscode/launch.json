@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "dio-trilha-java-basico_c2e40256"
+        },
+        {
+            "type": "java",
             "name": "operadores_4",
             "request": "launch",
             "mainClass": "operadores_4",
